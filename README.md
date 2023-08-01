@@ -8,6 +8,11 @@ This GlassMorphism Login form is a sleek and modern user interface built entirel
   <img src="assets/LoginForm.png" alt="Login Display" title="GlassMorphism Login" width= "60%" height= "60%" align="left">
   <img src="/assets/Login.png" alt="Login Display" title="GlassMorphism Login" width= "35%" height= "35%" align="center">
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <sub>credit: *"Online Tutorials"* (https://www.youtube.com/@OnlineTutorialsYT).</sub>
 
